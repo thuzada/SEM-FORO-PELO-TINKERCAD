@@ -22,7 +22,7 @@ Este projeto foi desenvolvido como um exemplo educacional para demonstrar como u
 
 Monte o circuito conforme o diagrama abaixo:
 
-![Esquema de Montagem](link_para_imagem_do_esquema)
+![Esquema de Montagem](ESQUEMAS/ SEMAFORO.PDF)
 
 1. Conecte o LED vermelho ao pino 2 do Arduino com um resistor de 220Ω em série.
 2. Conecte o LED amarelo ao pino 4 do Arduino com um resistor de 220Ω em série.
